@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b945fee1652b17d962828250",
+  "owner": "jdtknry",
+  "repo": "page-d1619b0f1f5890dea6812d62",
+  "title": "GLaDOS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d1619b0f1f5890dea6812d62",
+      "a": "GLaDOS",
+      "b": "免费订阅clash节点",
+      "entity": "GLaDOS",
+      "brand": "GLaDOS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0c78b36a0155ab6d5dd927c7231e3b48f3ef5e0378827efb81e11d61b59101be",
+      "content": {
+        "primary_entity": "GLaDOS",
+        "keyword1": "GLaDOS",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，参考订阅配置说明完成导入。",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，月流量从 100GB 到 1000GB，在线设备数从 3 台到 20 台，适合单人轻量使用、多设备娱乐和团队协作等不同场景。",
+          "AI_HERO_SUBTITLE": "灵活订阅，多端畅连",
+          "AI_HERO_INTRO": "GLaDOS 提供基础版、旗舰版和团队版三档订阅方案，流量额度与在线设备数逐级提升，可按月或按年付费，适配日常浏览、流媒体娱乐与团队多设备使用。",
+          "AI_VISUAL_TITLE": "GLaDOS 订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "100GB 起月流量",
+          "AI_HIGHLIGHT_3": "3 台起多设备支持",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURES_INTRO": "从流量、设备数和订购周期三个角度快速比较。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度使用，旗舰版 300GB 兼顾娱乐，团队版 1000GB 满足多人共享。",
+          "AI_FEATURE_TITLE_2": "设备数对应场景",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备在线，旗舰版支持 5 台，团队版支持 20 台，按实际连接数量选择。",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_FEATURE_TEXT_3": "按月付费随时体验，按年付费更划算，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和权益上依次增强，按使用强度挑选。",
+          "AI_GUIDE_TITLE": "订阅使用步骤",
+          "AI_GUIDE_INTRO": "先选套餐，再核对设备适配，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数，从基础版、旗舰版、团队版中选择合适的档位。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统版本和客户端类型，确保满足对应套餐的设备数量限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成节点配置后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备数，选择适合日常使用的订阅方案。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备，并额外提供 IPLC 专线游戏加速优化和全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时新设备可能无法连接，可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格为基础版 150 元、旗舰版 350 元、团队版 850 元，相比月付按十二个月累计更省。流量和设备权益与月付相同。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版提供每月 1000GB 流量、20 台设备和 VIP 高带宽节点，适合小型工作室、企业办公或多成员共用的场景，并支持企业定制路由。",
+          "AI_FAQ_QUESTION_5": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_5": "下载对应系统的客户端后，复制订阅链接或扫描二维码，按客户端内的配置文档完成导入，连接成功后即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7b756849719e0de39778af3b3e28faad4abf2928019673151ef2a23997164610",
+    "sitemap.xml": "57546e44e655b84f256a7bd9a9face5e7b590b884d3854dd3f3f699678d7780e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b156b9615228cb05d0e9692143c078db8083ee4101d6c382be2a8c4da11d76f1"
+}
